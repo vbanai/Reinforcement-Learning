@@ -10,6 +10,6 @@ point P and point L.
 TWIN-DELAYED DDPG PROJECT</br>
 </br>
 In this project I use the leading edge Twin-delayed DDPG (deep deterministic policy gradient) model in open </br>
-AI Gym environment, and check how it performs. In some open AI gym environments I couldn't create video on robot's </br>
-performance. The Twin-Delayed3 is applied to environment having a continous action space, which means that the </br>
-AI is playing some continuous actions in a range of continous values. 
+AI Gym environment, and check how it performs. In some open AI gym environments I couldn't create video on  </br>
+robot's performance. The Twin-Delayed3 is applied to environment having a continous action space, which  </br>
+means that the AI is playing some continuous actions in a range of continous values. 
