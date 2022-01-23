@@ -20,11 +20,11 @@ In this project I am upgrading my former Webdesign A/B testing projects. Now I u
 9 different WEBDESIGNS: with a button in 9 different position ( BANNER 1, BANNER 2 etc.) to find out which </br>
 provides the highest conversion rate. In this project I do the test on the fly. The metric/reward will </br>
 be the click -through rate, showing how many people clicked on the banner with the button in different positions. </br>
-By means of the Thompson sampling we can decide on the fly which button is more effective and produce more click </br>
-through rate in the real life, saving money for the company compared to traditional A/B testing methods. Traditional</br>
-A/B tests introduced in the "ML techniques in Sales and Markting" section are more time consuming and cost-intensive </br>
-methods than the Thompson way, as you have to plan, execute and evaluate the test before applying the best strategy</br>
-in real life, but Thompson Sampling makes all three steps possible on the fly.</br>
+By means of the Thompson sampling we can decide on the fly which button is more effective and produce higher  </br>
+click-through rate in the real life, saving money for the company compared to traditional A/B testing methods. </br>
+Traditional A/B tests introduced in the "ML techniques in Sales and Markting" section are more time consuming </br>
+and cost-intensive methods than the Thompson way, as you have to plan, execute and evaluate the test before </br>
+applying the best strategy in real life, but Thompson Sampling makes all three steps possible on the fly.</br>
 </br>
 4.) COST REDUCTION WITH REINFORCEMENT LEARNING</br>
 </br>
