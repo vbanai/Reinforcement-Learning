@@ -14,7 +14,7 @@ AI Gym environment, and check how it performs. In some open AI gym environments 
 robot's performance. The Twin-Delayed3 is applied to environment having a continous action space, which  </br>
 means that the AI is playing some continuous actions in a range of continous values. </br>
 </br>
-3.) AB TESTING WITH THOMPSON SAMPLING</br>
+3.) A/B TESTING WITH THOMPSON SAMPLING</br>
 </br>
 In this project I am upgrading my former Webdesign A/B testing projects. Now I use Thompson sampling. I check </br>
 9 different WEBDESIGNS: with a button in 9 different position ( BANNER 1, BANNER 2 etc.) to find out which </br>
